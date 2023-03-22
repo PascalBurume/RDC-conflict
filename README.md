@@ -1,12 +1,9 @@
 # RDC-conflict
-For nearly three decades, the Democratic Republic of Congo (DRC) has been embroiled in violence. Millions of people have been killed, and an estimated 5.6 million others displaced by civil wars, local feuds and cross-border conflicts.
+The Democratic Republic of Congo (DRC) has been plagued by violence for almost 30 years. Civil wars, local disputes and cross-border conflicts have resulted in millions of deaths and the displacement of an estimated 5.6 million people.
 
-Studies have identified several reasons for the persistence of war, especially in the volatile east of the country. These include ethnic intolerance, the illegal exploitation of the country’s vast natural resources and a Congolese elite that benefits from the chaos.
+Several factors have been identified as contributing to the ongoing conflict in the country’s volatile east. These include ethnic tensions, illegal exploitation of natural resources and a ruling elite that profits from the chaos.
 
-Neighbouring countries – including Rwanda, Burundi, Uganda and most recently Kenya – are locked in the ongoing conflict, which has been termed one of world’s deadliest since the second world war. Much of the current violence is centred in Ituri, North Kivu and South Kivu provinces, which lie on the DRC’s eastern border. Combined, they are about seven times the size of Rwanda.
-
-Consolidating peace efforts across the vast territory has proved difficult. Scholars writing for The Conversation Africa have highlighted a range of factors driving the conflict – and the challenges in the way of addressing them.
-
+Much of the current violence is concentrated in Ituri, North Kivu and South Kivu provinces along DRC’s eastern border.
 # Visualization 
 This visual shows how the M23 rebels movement launched a series of attacks against the FARDC positions in North Kivu province between October 2022 and December 2022, causing many civilian casualties. The M23 rebels were former members of the FARDC who defected over grievances related to their integration and treatment 1. They were also accused of receiving support from Rwanda, which denied any involvement 12. The visual indicates that Kishishi was the most affected location by the violence, with 145 deaths, followed by Rugari and Tongo. Kishishi alone accounted for 46.33% of all deaths across 83 locations. The number of deaths varied from 0 to 145 in different locations, reflecting the intensity and spread of the conflict. 
 ## 5 articles that explain what’s gone wrong
