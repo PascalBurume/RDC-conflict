@@ -14,26 +14,16 @@ Within this visualization you can see that `Radio Okapi`is the top of media that
 In model model performance, During our analysis, we used Machine Learning with Power BI services to conduct an in-depth examination of death data from fields  in data sources. By leveraging the capabilities of Automated Machine Learning (AutoML) in Power BI Services, we were able to extract relevant features and build a model that best fits the data. Our findings indicate that political violence has a significant impact on the number of deaths, with an average of 2.99 deaths predicted after we have Nord-Kivu which have an influence of dead people.
 ##
 ![Dashboard](./ML.png)
-## 5 articles that explain what’s gone wrong
-### The birth of M23
-Since the 1990s, armed groups have been part of the political economy of eastern Congo. Communities created self-defence militias in response to foreign-backed armed groups accused of using war to loot the country’s riches.
+## Action to stop M23 rebels
+M23 rebels have largely been defeated and disarmed since 2013, when they were pushed out of their stronghold in the eastern city of Goma by the Congolese army with support from UN peacekeepers. However, if M23 or any other armed group were to resurge in the future, there are several steps that could be taken to remove them:
 
-Over time, armed mobilisation turned into a goal in itself: to make money, to express political power or simply for the youth to cope with the chaos. Today, more than 120 armed groups are present in eastern DRC.
-### Regional Dynamics 
-The DRC has accused Rwanda of violating its sovereignty by supporting M23. A United Nations report supported this contention. Kigali, however, has dismissed the findings as “false allegations”.
+1. Deploy military forces: The Congolese army, with support from UN peacekeeping forces, could be deployed to areas where M23 or other armed groups are operating in order to remove them. Military action should be carefully planned and targeted to avoid civilian casualties and minimize the risk of retaliation by the rebels.
 
-Tensions between Rwanda and DRC date back to the 1994 genocide in Rwanda. Many of the perpetrators of this violence, which killed about a million Rwandans, fled to the DRC, at the time called Zaire. The post-genocide Rwandan government launched military operations in a bid to force the perpetrators back home to face justice. Rwanda believes the DRC continues to provide refuge for those behind the 1994 massacre.
+2. Pursue negotiations: Diplomatic efforts could be made to pursue negotiations with the rebels, offering them the opportunity to disarm and reintegrate into society. This approach has been successful in some previous conflicts in the DRC, such as the peace agreement reached with the M23 rebels in 2009.
 
-### The lingerings effects of colonial 
-Colonial ways of governing indigenous populations sowed seeds of ethnic tension in present-day Congo. Jacob Cloete’s research set out to establish whether a conflict in North Kivu in 1993 that grabbed headlines was the starting point of the current violence in eastern Congo. He argues, however, that it was the culmination of a much older one rooted in Belgian and German colonialism.
 
-### Questionning the UN's intervention 
-Over three decades of war, the Congo has received tens of billions of dollars in humanitarian aid and hosts one of the largest United Nations peacekeeping missions. The mission was established in 1999, and its mandate expanded in 2010 to include the protection of civilians.
+3. Engage with regional and international partners: Regional and international partners can play a key role in supporting efforts to remove armed groups from the DRC. The UN, the African Union, and neighboring countries can provide support for military operations, diplomatic efforts, and humanitarian assistance.
 
-The UN mission has long been blamed for failing to stabilise the country despite more than two decades of intervention. But as Delphin Ntanyoma explains, the UN is being blamed for what should be the DRC government’s responsibility: de-escalating violence and finding long-term solutions.
-
-### Rwarding rebelions 
-Christopher P. Davey’s research into the Banyamulenge – a sub-group of the Congolese Tutsi ethnic group who originally come from the province of South Kivu in eastern DRC – adds to debate on the factors driving Congo’s violence. He argues that the Banyamulenge’s experiences illustrate how violence in the Congo multiplies across borders, blurs the lines between victim and perpetrator, and is used to win a place in government rather than to overthrow it.
-(https://theconversation.com/conflict-in-the-drc-5-articles-that-explain-whats-gone-wrong-195332)
+4. Promote accountability for human rights abuses: Armed groups in the DRC have been responsible for numerous human rights abuses, including rape, forced displacement, and extrajudicial killings. Holding perpetrators accountable for these crimes can help to prevent future abuses and reduce the appeal of armed groups. Efforts to promote justice and accountability can be pursued through national and international courts, as well as through truth and reconciliation processes.
 ##
 
