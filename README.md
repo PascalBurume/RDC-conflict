@@ -11,6 +11,8 @@ Within this visualization you can see that `Radio Okapi`is the top of media that
 ##
 ![Dashboard](./R.png)
 ## Model Performance
+In model model performance, During our analysis, we used Machine Learning with Power BI services to conduct an in-depth examination of death data from fields  in data sources. By leveraging the capabilities of Automated Machine Learning (AutoML) in Power BI Services, we were able to extract relevant features and build a model that best fits the data. Our findings indicate that political violence has a significant impact on the number of deaths, with an average of 2.99 deaths predicted after we have Nord-Kivu which have an influence of dead people.
+##
 ![Dashboard](./ML.png)
 ## 5 articles that explain what’s gone wrong
 ### The birth of M23
