@@ -10,6 +10,8 @@ Within this visualization you can see that `Radio Okapi`is the top of media that
 .
 ##
 ![Dashboard](./R.png)
+## Model Performance
+![Dashboard](./ML.png)
 ## 5 articles that explain what’s gone wrong
 ### The birth of M23
 Since the 1990s, armed groups have been part of the political economy of eastern Congo. Communities created self-defence militias in response to foreign-backed armed groups accused of using war to loot the country’s riches.
