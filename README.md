@@ -6,6 +6,8 @@ Several factors have been identified as contributing to the ongoing conflict in 
 Much of the current violence is concentrated in Ituri, North Kivu and South Kivu provinces along DRC’s eastern border.
 # Visualization 
 This visual shows how the M23 rebels movement launched a series of attacks against the FARDC positions in North Kivu province between October 2022 and December 2022, causing many civilian casualties. The M23 rebels were former members of the FARDC who defected over grievances related to their integration and treatment 1. They were also accused of receiving support from Rwanda, which denied any involvement 12. The visual indicates that Kishishi was the most affected location by the violence, with 145 deaths, followed by Rugari and Tongo. Kishishi alone accounted for 46.33% of all deaths across 83 locations. The number of deaths varied from 0 to 145 in different locations, reflecting the intensity and spread of the conflict. 
+##
+![Dashboard](./R.png)
 ## 5 articles that explain what’s gone wrong
 ### The birth of M23
 Since the 1990s, armed groups have been part of the political economy of eastern Congo. Communities created self-defence militias in response to foreign-backed armed groups accused of using war to loot the country’s riches.
